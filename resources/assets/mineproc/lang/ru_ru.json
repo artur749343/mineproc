@@ -1,0 +1,21 @@
+{
+  "item.mineproc.register": "Регистор",
+  "item.mineproc.micro_memory": "Микро ячейка памяти",
+  "item.mineproc.updated_micro_memory": "Улучшенная микро ячейка памяти",
+  "item.mineproc.advanced_micro_memory": "Продвинутая микро ячейка памяти",
+  "item.mineproc.mini_memory": "Мини ячейка памяти",
+  "item.mineproc.updated_mini_memory": "Улучшенная мини ячейка памяти",
+  "item.mineproc.advanced_mini_memory": "Продвинутая мини ячейка памяти",
+  "item.mineproc.memory_cell": "Ячейка памяти",
+  "item.mineproc.updated_memory_cell": "Улучшенная ячейка памяти",
+  "item.mineproc.advanced_memory_cell": "Продвинутая ячейка памяти",
+  "item.mineproc.processor": "Процессор",
+  "item.mineproc.propeller": "Пропеллер",
+  "item.mineproc.video_card": "Видео карта",
+  "item.mineproc.energy_block": "Блок питания",
+  "item.mineproc.transistor": "Транзистор",
+  "block.mineproc.monitor": "Монитор",
+  "block.mineproc.computer": "Компьютер",
+  "block.mineproc.updater": "Улучшатор",
+  "block.mineproc.sun_panel": "Солнечная панель"
+}

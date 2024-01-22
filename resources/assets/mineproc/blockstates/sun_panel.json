@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mineproc:block/sun_panel",
+      "y": 0
+    },
+    "facing=south": {
+      "model": "mineproc:block/sun_panel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mineproc:block/sun_panel",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "mineproc:block/sun_panel",
+      "y": 90
+    }
+  }
+}

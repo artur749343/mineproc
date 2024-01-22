@@ -1,0 +1,22 @@
+{
+  "item.mineproc.register": "Register",
+  "item.mineproc.micro_memory": "Micro memory cell",
+  "item.mineproc.updated_micro_memory": "Updated micro memory cell",
+  "item.mineproc.advanced_micro_memory": "Advanced micro memory cell",
+  "item.mineproc.mini_memory": "Mini memory cell",
+  "item.mineproc.updated_mini_memory": "Updated mini memory cell",
+  "item.mineproc.advanced_mini_memory": "Advanced mini memory cell",
+  "item.mineproc.memory_cell": "Memory cell",
+  "item.mineproc.updated_memory_cell": "Updated memory cell",
+  "item.mineproc.advanced_memory_cell": "Advanced memory cell",
+  "item.mineproc.processor": "Processor",
+  "item.mineproc.propeller": "Propeller",
+  "item.mineproc.video_card": "Video Card",
+  "item.mineproc.energy_block": "Energy Block",
+  "item.mineproc.transistor": "Transistor",
+  "block.mineproc.monitor": "Monitor",
+  "block.mineproc.computer": "Computer",
+  "block.mineproc.updater": "Updater",
+  "block.mineproc.sun_panel": "Sun Panel",
+  "mineproc.mod_group": "Mineproc"
+}

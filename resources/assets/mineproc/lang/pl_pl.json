@@ -1,0 +1,21 @@
+{
+  "item.mineproc.register": "Registor",
+  "item.mineproc.micro_memory": "Micro komórka pamięci",
+  "item.mineproc.updated_micro_memory": "Zaktualizowana micro komórka pamięci",
+  "item.mineproc.advanced_micro_memory": "Zaawansowana micro komórka pamięci",
+  "item.mineproc.mini_memory": "Mini pamięć",
+  "item.mineproc.updated_mini_memory": "Zaktualizowana mini komórka pamięci",
+  "item.mineproc.advanced_mini_memory": "Zaawansowana mini komórka pamięci",
+  "item.mineproc.memory_cell": "Komórka pamięci",
+  "item.mineproc.updated_memory_cell": "Zaktualizowana komórka pamięci",
+  "item.mineproc.advanced_memory_cell": "Zaawansowana komórka pamięci",
+  "item.mineproc.processor": "Processor",
+  "item.mineproc.propeller": "Propeller",
+  "item.mineproc.video_card": "Karta graficzna",
+  "item.mineproc.energy_block": "Block Energiczny",
+  "item.mineproc.transistor": "Tranzystor",
+  "block.mineproc.monitor": "Monitor",
+  "block.mineproc.computer": "Computer",
+  "block.mineproc.updater": "Updater",
+  "block.mineproc.sun_panel": "Panel słoneczny"
+}

@@ -1,0 +1,133 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"crafting_end": {
+			"animation_length": 5,
+			"bones": {
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 1, 0]
+						},
+						"2.5": {
+							"vector": [-2, 1, 0]
+						},
+						"3.0": {
+							"vector": [-2, 1, 0]
+						},
+						"4.5": {
+							"vector": [0, 1, 0]
+						},
+						"5.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"bone2": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 1, 0]
+						},
+						"2.5": {
+							"vector": [2, 1, 0]
+						},
+						"3.0": {
+							"vector": [2, 1, 0]
+						},
+						"4.5": {
+							"vector": [0, 1, 0]
+						},
+						"5.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		},
+		"crafting": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, -1, 0],
+							"easing": "easeInSine"
+						},
+						"1.0": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"bone2": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, -1, 0],
+							"easing": "easeInSine"
+						},
+						"1.0": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"bone3": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				},
+				"bone4": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.5": {
+							"vector": [0, -1, 0],
+							"easing": "easeInSine"
+						},
+						"1.0": {
+							"vector": [0, 0, 0],
+							"easing": "easeInSine"
+						}
+					}
+				}
+			}
+		},
+		"nothing": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"bone": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

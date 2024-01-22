@@ -1,0 +1,21 @@
+{
+  "item.mineproc.register": "Регістор",
+  "item.mineproc.micro_memory": "Мікро осередок пам'яті",
+  "item.mineproc.updated_micro_memory": "Улучшена микро осередок пам'яті",
+  "item.mineproc.advanced_micro_memory": "Продвинута микро осередок пам'яті",
+  "item.mineproc.mini_memory": "Мини осередок пам'яті",
+  "item.mineproc.updated_mini_memory": "Улучшенная мини осередок пам'яті",
+  "item.mineproc.advanced_mini_memory": "Продвинутая мини осередок пам'яті",
+  "item.mineproc.memory_cell": "Осередок пам'яті",
+  "item.mineproc.updated_memory_cell": "Улучшенная осередок пам'яті",
+  "item.mineproc.advanced_memory_cell": "Продвинутая осередок пам'яті",
+  "item.mineproc.processor": "Процессор",
+  "item.mineproc.propeller": "Пропеллер",
+  "item.mineproc.video_card": "Відео Карта",
+  "item.mineproc.energy_block": "Блок питання",
+  "item.mineproc.transistor": "Транзістор",
+  "block.mineproc.monitor": "Монітор",
+  "block.mineproc.computer": "Комп'ютер",
+  "block.mineproc.updater": "Улучшатор",
+  "block.mineproc.sun_panel": "Сонячна панель"
+}
